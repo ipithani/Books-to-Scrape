@@ -1,4 +1,4 @@
-# Books-to-Scrape
+# Books to Scrape
       We scraped the Books Store data using Python and BeautifulSoup and store it in a csv file.
 
 ## The website used for this project:
